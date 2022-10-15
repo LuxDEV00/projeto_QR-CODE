@@ -15,18 +15,18 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 
-img { 
+.imagem { 
     Border-radius: 10px;
     max-width: 260px; 
     width: 100%; 
 }
 
-main { 
+.card { 
    width: 100%; 
    max-width: 260px; 
 }
 
-main {
+.card {
     align-items: center;
     background-color: #fff;
     margin-top: 10vh;
