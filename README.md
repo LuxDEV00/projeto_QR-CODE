@@ -9,7 +9,7 @@
  .quando eu baixei o arquivo, eu dividi os trabalhos em partes.
  
  parte-1
- diminuir o tamanho do qr code kkkk que pelo amor de deus kk (usei widht pra isso)
+ diminuir o tamanho do qr code kkkk que pelo amor de deus kk (usei width pra isso)
  
  parte-2
  centralizar tudo junto (usei display flex,justify-content center, align center e etc...)
