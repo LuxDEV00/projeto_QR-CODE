@@ -7,7 +7,6 @@
 
 body {
     background-color: hsl(212, 45%, 89%);
-    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +17,7 @@ body {
 
 
 .main {
-    max-width: 270px;
+    max-width: 260px;
     align-items: center;
     background-color: #fff;
     margin-top: 15vh;
