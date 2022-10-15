@@ -1,6 +1,6 @@
 # bem vindo kkk
 
-## peguei esse projeto do front-end mentor para testar um pouco meus conhecimentos
+## peguei esse projeto do mentor front-end para testar um pouco meus conhecimentos
 
 ### bom, vou (tentar explicar) o de como eu chegue nesse codigo e nesse resultado.
 (ta cheio de ganbiarra, eu sei kkk)
