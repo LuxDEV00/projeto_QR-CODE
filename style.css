@@ -15,30 +15,23 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 
-.main .imagem img { 
+img { 
+    Border-radius: 10px;
     max-width: 260px; 
     width: 100%; 
 }
 
-.main { 
+main { 
    width: 100%; 
    max-width: 260px; 
 }
-.main {
+
+main {
     align-items: center;
     background-color: #fff;
     margin-top: 10vh;
     padding: 15px;
     border-radius: 20px;
-}
-
-.main .imagem img {
-    border-radius: 10px;
-}
-
-.texto {
-    text-align: center;
-    padding: 10px;
 }
 
 h1 {
