@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: auto;
+    width: 100vh;
     height: auto;
     font-family: 'Outfit', sans-serif;
 }
@@ -29,7 +29,6 @@ body {
 .card {
     align-items: center;
     background-color: #fff;
-    margin-top: 10vh;
     padding: 15px;
     border-radius: 20px;
 }
