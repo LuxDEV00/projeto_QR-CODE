@@ -15,9 +15,16 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 
+.main .imagem img { 
+    max-width: 260px; 
+    width: 100%; 
+}
 
+.main { 
+   width: 100%; 
+   max-width: 260px; 
+}
 .main {
-    max-width: 260px;
     align-items: center;
     background-color: #fff;
     margin-top: 10vh;
@@ -27,7 +34,6 @@ body {
 
 .main .imagem img {
     border-radius: 10px;
-    width: 260px;
 }
 
 .texto {
