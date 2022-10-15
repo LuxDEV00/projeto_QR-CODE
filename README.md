@@ -4,7 +4,7 @@
 
 ### bom, vou (tentar explicar) o de como eu chegue nesse codigo e nesse resultado.
 (ta cheio de ganbiarra, eu sei kkk)
-### (obs:ele tem um icon no arquivo mas nao tem em lugar nem um nas imagens onde se deve usar entao nao usei)
+### (obs:ele tem um icon no arquivo mas nao tem em lugar nenhum nas imagens onde se deve usar entao nao usei)
 
  .quando eu baixei o arquivo, eu dividi os trabalhos em partes.
  
